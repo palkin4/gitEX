@@ -1,0 +1,12 @@
+TripID,Source
+1,atriis
+2,atriis
+3,atriis
+4,atriis
+5,atriis
+5,atriis
+6,atriis
+7,atriis
+8,atriis
+9,atriis
+10,amadeus
